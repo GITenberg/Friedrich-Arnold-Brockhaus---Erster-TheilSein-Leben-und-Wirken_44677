@@ -1,0 +1,28 @@
+_repo: Friedrich-Arnold-Brockhaus---Erster-TheilSein-Leben-und-Wirken_44677
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44677-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brockhaus, Heinrich Eduard
+    alias: Brockhaus, Eduard
+    birthdate: 1829
+    deathdate: 1914
+    gutenberg_agent_id: '42866'
+    url: http://www.gutenberg.org/2009/agents/42866
+description: ''
+gutenberg_issued: '2014-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44677'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'F.A. Brockhaus Verlag Leipzig'
+- !lcsh 'Brockhaus, F. A. (Friedrich Arnold), 1772-1823'
+title: Friedrich Arnold Brockhaus, Sein Leben und Wirken. Erster Theil
+url: http://www.gutenberg.org/ebooks/44677
