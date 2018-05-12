@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42866'
     url: http://www.gutenberg.org/2009/agents/42866
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44677#Friedrich-Arnold-Brockhaus---Erster-TheilSein-Leben-und-Wirken
 gutenberg_issued: '2014-01-15'
 gutenberg_type: Text
 identifiers:
